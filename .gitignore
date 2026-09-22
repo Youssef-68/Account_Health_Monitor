@@ -1,0 +1,13 @@
+# Large Data & Models
+data/saas_50k_v1.csv
+models/final_mrr_model.pkl
+models/
+*.pkl
+*.joblib
+
+# Python & Environment
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
