@@ -1,9 +1,11 @@
+streamlit
 pandas
 numpy
-streamlit
-plotly
 scikit-learn
 joblib
+lightgbm
+xgboost
+plotly
+pyarrow
 fastapi
 uvicorn
-pydantic
